@@ -1,6 +1,9 @@
 # DEVFEST
 
-A new Flutter application.
+
+[![](https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/en_get.svg)](https://play.google.com/store/apps/details?id=com.flutterdevs.devfest)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/640px-Download_on_the_App_Store_Badge.svg.png)](https://apps.apple.com/us/app/devfest19/id1481179355?ls=1) 
+
 
 ## Getting Started
 
